@@ -32,10 +32,12 @@
 
 Here are a few screenshots of the app:
 
+
 | ![Screenshot 1](screenshot/image1.png) | ![Screenshot 2](screenshot/image2.png) | ![Screenshot 3](screenshot/image3.png) |
 |-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| ![Screenshot 1](screenshot/image4.png) | ![Screenshot 2](screenshot/image0.png) | ![Screenshot 3](screenshot/image0.png) |
+| ![Screenshot 4](screenshot/image4.png) | ![Screenshot 5](screenshot/image0.png) | ![Screenshot 6](screenshot/image0.png) |
 |-----------------------------------------|-----------------------------------------|-----------------------------------------|
+
 
 ## Resources
 
