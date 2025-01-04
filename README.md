@@ -43,9 +43,13 @@ Here are a few screenshots of the app:
 
 ## Note
 
-This project is **not open source**.
+This project is **not completely open source**.
 
 ## Coming Soon
 
 **Rule34-Android-App** is currently under development and will be available soon. Stay tuned for updates!
+
+## License
+This project is proprietary. All rights reserved. For more details, see the [LICENSE](./LICENSE) file.
+
 
