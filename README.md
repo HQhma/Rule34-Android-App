@@ -1,5 +1,7 @@
 # Rule34-Android-App
 
+[![Downloads](https://img.shields.io/github/downloads/HQhma/Rule34-Android-App/total)](https://github.com/HQhma/Rule34-Android-App/releases)
+
 **Rule34-Android-App** is a sleek and powerful Android application designed to serve as a user interface for the Rule34 API. This app delivers a smooth and modern experience for browsing, viewing, and interacting with posts in a highly intuitive way.
 
 ## Features
@@ -50,6 +52,10 @@ This project is **not completely open source**.
 **Rule34-Android-App** is currently in development and will be available soon.
 A demo version is now available.
 Stay tuned for the official release and source code!
+
+## Download APK
+
+Demo version 0.5.1 is now available. [Click to download.](https://github.com/HQhma/Rule34-Android-App/releases)
 
 ## License
 This project is proprietary. All rights reserved. For more details, see the [LICENSE](./LICENSE) file.
