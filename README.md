@@ -55,7 +55,7 @@ Stay tuned for the official release and source code!
 
 ## Download APK
 
-Demo version 0.5.1 is now available. [Click to download.](https://github.com/HQhma/Rule34-Android-App/releases)
+Demo version 0.6.1 is now available. [Click to download.](https://github.com/HQhma/Rule34-Android-App/releases)
 
 ## License
 This project is proprietary. All rights reserved. For more details, see the [LICENSE](./LICENSE) file.
