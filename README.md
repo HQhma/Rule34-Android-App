@@ -1,4 +1,4 @@
-# Rule34-Android-App
+# Rule34 Android App
 
 [![Downloads](https://img.shields.io/github/downloads/HQhma/Rule34-Android-App/total)](https://github.com/HQhma/Rule34-Android-App/releases)
 
