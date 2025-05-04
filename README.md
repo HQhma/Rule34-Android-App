@@ -43,10 +43,6 @@ Here are a few screenshots of the app:
 
 - [Rule34.xxx](https://rule34.xxx)
 
-## Note
-
-This project is **not completely open source**.
-
 ## Coming Soon
 
 **Rule34-Android-App** is currently in development and will be available soon.
