@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/rounded_background"
+    android:backgroundTint="@color/background_color"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/collection_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create a New Collection"
+        android:textColor="@color/text_color_white"
+        android:textSize="20dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toBottomOf="@id/collection_name"
+        android:id="@+id/editText"
+        android:hint="Collection Name"
+        android:textColor="@color/text_color_white"
+        android:textColorHint="@color/text_color_gray"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="8dp"
+        />
+
+    <TextView
+        android:id="@+id/notNowBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cancel"
+        android:background="@android:color/transparent"
+        android:textSize="20dp"
+        android:padding="5dp"
+        android:textColor="@color/text_color_white"
+        app:layout_constraintTop_toBottomOf="@id/editText"
+        app:layout_constraintEnd_toStartOf="@+id/saveBTN"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        />
+
+    <TextView
+        android:id="@+id/saveBTN"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:textSize="20dp"
+        android:background="@android:color/transparent"
+        android:textColor="@color/primaryColor"
+        app:layout_constraintTop_toBottomOf="@id/editText"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"
+        android:padding="5dp"
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
