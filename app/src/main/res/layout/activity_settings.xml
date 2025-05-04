@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:background="@color/background_color"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SettingsActivity">
+
+    <!-- Toolbar with Back Button -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="8dp">
+
+        <!-- Back Button -->
+        <ImageButton
+            android:id="@+id/backButton"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Back"
+            android:padding="8dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/baseline_arrow_back_24"
+            app:tint="@color/text_color_white" />
+
+        <!-- Title -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Settings"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            android:textColor="@color/text_color_white"
+            android:textSize="24dp"
+            android:layout_marginStart="20dp"
+            />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="?attr/colorOutlineVariant"
+        />
+    <!-- Title for the Settings Section -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="20dp"
+        >
+
+        <TextView
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Data Usage"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            android:textColor="@color/text_color_white"
+            android:paddingBottom="16dp" />
+
+        <!-- High Resolution Toggle -->
+        <androidx.appcompat.widget.SwitchCompat
+            android:id="@+id/highResSwitch"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:checked="false"
+            android:textSize="18dp"
+            android:text="Enable High Resolution"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            android:textColor="@color/text_color_white"
+            android:theme="@style/Widget.MaterialComponents.CompoundButton.Switch"
+            android:paddingVertical="8dp" />
+
+        <TextView
+            android:id="@+id/downloadLimitTV"
+            android:layout_marginTop="8dp"
+            android:textColor="@color/text_color_white"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Max size for high-res download: 5MB"
+            />
+
+        <SeekBar
+            android:id="@+id/downloadLimitSeekBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:max="10"
+            android:progress="4"
+            android:thumbTint="@color/text_color_white"
+            android:progressTint="@color/accentColor"
+            android:backgroundTint="@color/text_color_white"
+            android:layout_marginTop="8dp"
+            />
+
+
+
+
+    </LinearLayout>
+
+    <!-- Divider -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="?attr/colorOutlineVariant"
+        android:layout_marginHorizontal="20dp"
+        />
+
+    <!-- Sort Posts Section -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:textSize="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Search Settings"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            android:textColor="@color/text_color_white"
+            android:paddingBottom="16dp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+
+            <TextView
+                android:id="@+id/sortTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sort Posts By"
+                android:textSize="18dp"
+                android:layout_alignParentStart="true"
+                android:textAppearance="?attr/textAppearanceHeadline6"
+                android:textColor="@color/text_color_white"
+                android:paddingVertical="8dp"
+                android:layout_centerInParent="true"
+                />
+
+            <!-- Spinner for Sorting Options -->
+            <Spinner
+                android:id="@+id/sortSpinner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:backgroundTint="@color/text_color_white"
+                android:entries="@array/sort_options"
+                android:paddingVertical="8dp"
+                android:layout_centerInParent="true"
+                android:popupBackground="@color/background_color" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

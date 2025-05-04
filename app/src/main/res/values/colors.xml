@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="navigation_selected">#fca311</color>
+    <color name="navigation_non_selected">#e5e5e5</color>
+
+    <color name="menu_color">#1A1C1D</color>
+    <color name="menu_divider_color">#565859</color>
+    <color name="background_color">#1A1C1D</color>
+    <color name="background_tag_color">#303233</color>
+    <color name="profile_background_color">#303233</color>
+    <color name="suggests_background_color">#565859</color>
+    
+    <color name="text_color_white">#F4F4F4</color>
+    <color name="text_color_black">#181818</color>
+    <color name="text_color_gray">#979797</color>
+    <color name="text_color_gray2">#BCBCBC</color>
+
+    <color name="accentColor">#fca311</color>
+    <color name="accentColorRed">#BD0404</color>
+    <color name="errorColor">#BD0404</color>
+    <color name="errorColorLight">#E06E6E</color>
+
+    <color name="primaryColor">#FF9800</color>
+    <color name="primaryColorLight">#E7A64A</color>
+    <color name="primaryColorDark">#835205</color>
+
+    <color name="tag_General">#01577E</color>
+    <color name="tag_Artist">#730000</color>
+    <color name="tag_Other">#444747</color>
+    <color name="tag_Copyright">#640064</color>
+    <color name="tag_Character">#007300</color>
+    <color name="tag_Meta">#AF5E00</color>
+
+    <!--<color name="tag_General">#009</color>
+    <color name="tag_Artist">#A00</color>
+    <color name="tag_Other">#009199</color>
+    <color name="tag_Copyright">#A0A</color>
+    <color name="tag_Character">#0A0</color>
+    <color name="tag_Meta">#F80</color>-->
+
+
+
+</resources>

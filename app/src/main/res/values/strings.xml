@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Rule34</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="preference_file_key">ahmad671_rule34</string>
+</resources>
