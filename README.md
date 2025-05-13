@@ -7,7 +7,7 @@
 
 ## Links
 
-- [Join Discord Server](https://discord.gg/3XPQgs7Kpp)
+- [Join Discord Server](https://discord.gg/PJ5c36SFsB)
 - [Click to download demo version.](https://github.com/HQhma/Rule34-Android-App/releases)
 
 ## Features
