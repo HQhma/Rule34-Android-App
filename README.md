@@ -41,9 +41,9 @@
 Here are a few screenshots of the app:
 
 
-| ![Screenshot 1](screenshot/image1.png) | ![Screenshot 2](screenshot/image2.png) | ![Screenshot 3](screenshot/image3.png) |
+| ![Screenshot 1](screenshot/image13.png) | ![Screenshot 2](screenshot/image8.png)  | ![Screenshot 3](screenshot/image9.png)  |
 |-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| ![Screenshot 4](screenshot/image6.png) | ![Screenshot 5](screenshot/image5.png) | ![Screenshot 6](screenshot/image7.png) |
+| ![Screenshot 4](screenshot/image10.png) | ![Screenshot 5](screenshot/image11.png) | ![Screenshot 6](screenshot/image12.png) |
 
 ## Resources
 
