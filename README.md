@@ -8,29 +8,14 @@
 
 ## Features
 
-- **Video Player with Caching**
-  - Seamlessly play videos with caching for improved performance and offline viewing.
-
-- **Scroll Post View**
-  - Explore posts effortlessly in an Instagram-like scrolling interface.
-
-- **Search Tags and Suggestions**
-  - Search posts by tags with intelligent tag suggestions to make your browsing experience even faster.
-
-- **Save Tag Collections**
-  - Create and save collections of tags for quick and easy access later.
-
-- **Post Details**
-  - View detailed information about each post, including tags and the post owner's details.
-
-- **Download Posts**
-  - Download your favorite posts directly to your device for offline access.
-
-- **Like Posts**
-  - Mark posts as favorites to save them within the app for later viewing.
-
-- **Control Internet Usage**
-  - Optimize your data usage by choosing to load posts in low or high resolution.
+- **Smooth Video Playback** with caching for better speed 
+- **Instagram-like Feed** for effortless post scrolling  
+- **Smart Tag Search** with autocomplete suggestions  
+- **Tag Collections** to save and manage your favorite tags  
+- **Detailed Post View** with tags and uploader info  
+- **Post Downloads** for offline access  
+- **Favorites System** to like and save posts  
+- **Data Saver Mode** with resolution control based on network limit
 
 ## Screenshots
 
