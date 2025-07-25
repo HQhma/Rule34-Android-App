@@ -5,10 +5,6 @@
 
 **Rule34-Android-App** is a sleek and powerful Android application designed to serve as a user interface for the Rule34 API. This app delivers a smooth and modern experience for browsing, viewing, and interacting with posts in a highly intuitive way.
 
-## Links
-
-- [Join Discord Server](https://discord.gg/PJ5c36SFsB)
-- [Click to download demo version.](https://github.com/HQhma/Rule34-Android-App/releases)
 
 ## Features
 
