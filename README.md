@@ -5,6 +5,8 @@
 
 **Rule34-Android-App** is a sleek and powerful Android application designed to serve as a user interface for the Rule34 API. This app delivers a smooth and modern experience for browsing, viewing, and interacting with posts in a highly intuitive way.
 
+**Note:** This is a community project and is not officially affiliated with Rule34.xxx. It is intended as a fan-made tool for interacting with publicly available content via the Rule34 API.
+
 
 ## Features
 
