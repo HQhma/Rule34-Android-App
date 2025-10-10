@@ -1,4 +1,7 @@
 {
   "active": true,
-  "inActiveReason": ""
+  "inActiveReason": "",
+  "inActiveHelpLink": "",
+  "inActiveHelpText": ""
 }
+
