@@ -1,5 +1,6 @@
 # Rule34 Android App
 
+[![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@hqhma)](https://t.me/hqhma)
 [![Discord](https://img.shields.io/discord/1368657216672108587?logo=Discord&logoColor=white&label=Discord)](https://discord.gg/PJ5c36SFsB)
 [![Downloads](https://img.shields.io/github/downloads/HQhma/Rule34-Android-App/total?logo=googleplay&logoColor=white&label=Download)](https://github.com/HQhma/Rule34-Android-App/releases)
 
