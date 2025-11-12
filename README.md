@@ -14,10 +14,15 @@
 - **Instagram-like Feed** for effortless post scrolling  
 - **Smart Tag Search** with autocomplete suggestions  
 - **Tag Collections** to save and manage your favorite tags  
+- **Search User Profiles** find posts by users as well as tags
 - **Detailed Post View** with tags and uploader info  
 - **Post Downloads** for offline access  
 - **Favorites System** to like and save posts  
 - **Data Saver Mode** with resolution control based on network limit
+- **Check Source Link** view post source directly
+- **Paging Added** explore more posts seamlessly
+- **Comic Page** view long vertical or horizontal images easily
+
 
 ## Screenshots
 
@@ -31,6 +36,7 @@ Here are a few screenshots of the app:
 ## Resources
 
 - [Rule34.xxx](https://rule34.xxx)
+- [Hqhma Rule34](https://rule34.hqhma.site)
 
 ## Coming Soon
 
@@ -40,7 +46,7 @@ Stay tuned for the official release and source code!
 
 ## Download APK
 
-Demo version 0.7.2 is now available. [Click to download.](https://github.com/HQhma/Rule34-Android-App/releases)
+Demo version 0.8.1 is now available. [Click to download.](https://github.com/HQhma/Rule34-Android-App/releases)
 
 ## License
 This project is proprietary. All rights reserved. For more details, see the [LICENSE](./LICENSE) file.
