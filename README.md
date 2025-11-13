@@ -23,16 +23,6 @@
 - **Paging Added** explore more posts seamlessly
 - **Comic Page** view long vertical or horizontal images easily
 
-
-## Screenshots
-
-Here are a few screenshots of the app:
-
-
-| ![Screenshot 1](screenshot/image13.png) | ![Screenshot 2](screenshot/image8.png)  | ![Screenshot 3](screenshot/image9.png)  |
-|-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| ![Screenshot 4](screenshot/image10.png) | ![Screenshot 5](screenshot/image11.png) | ![Screenshot 6](screenshot/image12.png) |
-
 ## Resources
 
 - [Rule34.xxx](https://rule34.xxx)
@@ -47,6 +37,17 @@ Stay tuned for the official release and source code!
 ## Download APK
 
 Demo version 0.8.1 is now available. [Click to download.](https://github.com/HQhma/Rule34-Android-App/releases)
+
+
+## Screenshots
+
+Here are a few screenshots of the app:
+
+| ![Screenshot 1](screenshot/image14.png) | ![Screenshot 2](screenshot/image15.png) | ![Screenshot 3](screenshot/image16.png) |
+|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+| ![Screenshot 4](screenshot/image17.png) | ![Screenshot 5](screenshot/image18.png) | ![Screenshot 6](screenshot/image19.png) |
+| ![Screenshot 4](screenshot/image20.png) | ![Screenshot 5](screenshot/image21.png) | ![Screenshot 6](screenshot/image22.png) |
+
 
 ## License
 This project is proprietary. All rights reserved. For more details, see the [LICENSE](./LICENSE) file.
