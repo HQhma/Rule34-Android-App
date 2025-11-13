@@ -1,6 +1,6 @@
 {
-  "active": true,
-  "inActiveReason": "",
-  "inActiveHelpLink": "",
-  "inActiveHelpText": ""
+  "active": false,
+  "inActiveReason": "Server is updating. please try again in 2 hours.",
+  "inActiveHelpLink": "https://t.me/hqhma",
+  "inActiveHelpText": "Join Telegram"
 }
