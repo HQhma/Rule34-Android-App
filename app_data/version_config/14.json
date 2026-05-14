@@ -1,6 +1,6 @@
 {
-  "active": false,
-  "inActiveReason": "⚠️ Server is under maintenance, The app is temporarily unavailable due to a scheduled server update. Expected downtime: ~2 hours.",
+  "active": true,
+  "inActiveReason": "",
   "inActiveHelpLink": "https://t.me/hqhma",
   "inActiveHelpText": "Join Telegram"
 }
