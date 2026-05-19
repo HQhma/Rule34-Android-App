@@ -1,7 +1,7 @@
 # Rule34 Android App
 
 [![Official HQhma-R34](https://img.shields.io/badge/Official%20HQhma--R34-Visit-orange)](https://rule34.hqhma.site)
-[![Version](https://img.shields.io/badge/version-0.8.2-magenta)](https://github.com/HQhma/Rule34-Android-App/releases)
+[![Version](https://img.shields.io/badge/version-0.8.3-magenta)](https://github.com/HQhma/Rule34-Android-App/releases)
 [![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@hqhma)](https://t.me/hqhma)
 [![Downloads](https://img.shields.io/github/downloads/HQhma/Rule34-Android-App/total?logo=googleplay&logoColor=white&label=Download)](https://github.com/HQhma/Rule34-Android-App/releases)
 
@@ -38,7 +38,7 @@ Stay tuned for the official release and source code!
 
 ## Download APK
 
-Demo version 0.8.2 is now available. [Click to download.](https://github.com/HQhma/Rule34-Android-App/releases)
+Demo version 0.8.3 is now available. [Click to download.](https://github.com/HQhma/Rule34-Android-App/releases)
 
 
 ## Screenshots
