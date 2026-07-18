@@ -44,7 +44,7 @@ Stay tuned for the official release and source code!
 
 ## Download APK
 
-Demo version 0.8.3 is now available. 
+Demo version 0.8.4 is now available. 
 <div align="start">
 <a href="https://rule34.hqhma.site/download.html">
   <img src="https://img.shields.io/badge/Download%20APK-Official%20HQhma%20Website-ff0080?logo=android&logoColor=white&labelColor=1a1a2e&color=ff0080" width="300">
