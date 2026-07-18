@@ -4,6 +4,12 @@
 [![Version](https://img.shields.io/badge/version-0.8.3-magenta)](https://github.com/HQhma/Rule34-Android-App/releases)
 [![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@hqhma)](https://t.me/hqhma)
 [![Downloads](https://img.shields.io/github/downloads/HQhma/Rule34-Android-App/total?logo=googleplay&logoColor=white&label=Download)](https://github.com/HQhma/Rule34-Android-App/releases)
+<div align="start">
+<a href="https://rule34.hqhma.site/download.html">
+  <img src="https://img.shields.io/badge/Download%20APK-Official%20HQhma%20Website-ff0080?logo=android&logoColor=white&labelColor=1a1a2e&color=ff0080" width="600">
+</a>
+</div>
+</br>
 
 **Rule34-Android-App** is a sleek and powerful Android application designed to serve as a user interface for the Rule34 API. This app delivers a smooth and modern experience for browsing, viewing, and interacting with posts in a highly intuitive way.
 
@@ -38,8 +44,12 @@ Stay tuned for the official release and source code!
 
 ## Download APK
 
-Demo version 0.8.3 is now available. [Click to download.](https://github.com/HQhma/Rule34-Android-App/releases)
-
+Demo version 0.8.3 is now available. 
+<div align="start">
+<a href="https://rule34.hqhma.site/download.html">
+  <img src="https://img.shields.io/badge/Download%20APK-Official%20HQhma%20Website-ff0080?logo=android&logoColor=white&labelColor=1a1a2e&color=ff0080" width="300">
+</a>
+</div>
 
 ## Screenshots
 
