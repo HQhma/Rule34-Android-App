@@ -1,11 +1,11 @@
 # Rule34 Android App
 
-[![Official HQhma-R34](https://img.shields.io/badge/Official%20HQhma--R34-Visit-orange)](https://rule34.hqhma.site)
+[![Official HQhma-R34](https://img.shields.io/badge/Official%20HQhma--R34-Visit-orange)](https://hqhma-r34.com)
 [![Latest Release](https://img.shields.io/github/v/release/HQhma/Rule34-Android-App)](https://github.com/HQhma/Rule34-Android-App/releases)
 [![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@hqhma)](https://t.me/hqhma)
 [![Downloads](https://img.shields.io/github/downloads/HQhma/Rule34-Android-App/total?logo=googleplay&logoColor=white&label=Download)](https://github.com/HQhma/Rule34-Android-App/releases)
 <div align="start">
-<a href="https://rule34.hqhma.site/download.html">
+<a href="https://hqhma-r34.com/download.html">
   <img src="https://img.shields.io/badge/Download%20APK-Official%20HQhma%20Website-ff0080?logo=android&logoColor=white&labelColor=1a1a2e&color=ff0080" width="600">
 </a>
 </div>
@@ -34,7 +34,7 @@
 ## Resources
 
 - [Rule34.xxx](https://rule34.xxx)
-- [Hqhma Rule34](https://rule34.hqhma.site)
+- [Hqhma Rule34](https://hqhma-r34.com)
 
 ## Coming Soon
 
@@ -46,7 +46,7 @@ Stay tuned for the official release and source code!
 
 Demo version is now available. 
 <div align="start">
-<a href="https://rule34.hqhma.site/download.html">
+<a href="https://hqhma-r34.com/download.html">
   <img src="https://img.shields.io/badge/Download%20APK-Official%20HQhma%20Website-ff0080?logo=android&logoColor=white&labelColor=1a1a2e&color=ff0080" width="300">
 </a>
 </div>
